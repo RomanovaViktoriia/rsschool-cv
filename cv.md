@@ -1,6 +1,6 @@
 # Viktoriia Romanova
 
-![Photo](./images/IMG6581.jpeg)
+![Photo](./assets/img/IMG6581.jpeg)
 
 ## Contacts:
 
